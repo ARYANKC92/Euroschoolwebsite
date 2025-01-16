@@ -52,7 +52,7 @@ background-color:#fff;
 }
 
 .title{
-    background-image: url(images/bg.webp);
+    background-image: url(bg.webp);
     background-size: cover;
     min-height: 80vh;
     min-width: 100%;
